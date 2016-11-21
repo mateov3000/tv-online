@@ -1,0 +1,14 @@
+{
+	"description": "<p>OneDrive is a file hosting service that allows users to upload and sync files to a cloud storage and then access them from a web browser or their local device. It is part of the suite of online services formerly known as Windows Live and allows users to keep the files private, share them with contacts, or make the files public. Publicly shared files do not require a Microsoft account to access.<p>For additional info, visit <a href=\"https://onedrive.com\">https://onedrive.com</a>",
+	"author": "PS3HACKTEAM",
+	"homepage": "http://github.com/lprot/showtime-plugins",
+	"title": "Ps3HackHDD",
+	"synopsis": "Ps3HackHDD – wszystkie nowości filmowe a także telewizja za darmo dla Ciebie",
+	"version": "0.1",
+        "file": "ps3hackhdd.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"id": "ps3hackhdd",
+	"icon": "logo.png",
+	"category": "video"
+}
