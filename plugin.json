@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/mateov3000/tv-online",
 	"title": "Ps3HackHDD",
 	"synopsis": "Ps3HackHDD – nowości filmowe i telewizja za darmo",
-	"version": "0.1",
+	"version": "0.2",
     "file": "ps3hackhdd.js",
 	"showtimeVersion": "4.8",
 	"type": "ecmascript",
