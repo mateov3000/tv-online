@@ -1,0 +1,14 @@
+{
+	"description": "<p>Ps3HackHDD Jest to hosting filmów i telewizji za darmo, pliki przesyłane i synchronizowane są w tzw chmurze,dostęp do plików można uzyskać z poziomu przeglądarki internetowej lub urządzeń lokalnych.",
+	"author": "PS3HACKCOMPLTEAM",
+	"homepage": "https://github.com/mateov3000/tv-online",
+	"title": "Ps3HackHDD",
+	"synopsis": "Ps3HackHDD – nowości filmowe i telewizja za darmo",
+	"version": "0.1",
+    "file": "ps3hackhdd.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"id": "ps3hackhdd",
+	"icon": "logo.png",
+	"category": "video"
+}
