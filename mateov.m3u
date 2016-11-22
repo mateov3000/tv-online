@@ -1,0 +1,267 @@
+#EXTM3U
+#EXTINF:0, Fokus TV
+rtmp://stream.smcloud.net/live/fokustv
+#EXTINF:0, Virgin tv
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:0, Polo tv
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0, POLSAT NEW
+https://cdn1.4net.tv/master_4485.m3u8
+#EXTINF:0,4Fun Fit&Dance
+rtmp://153.19.248.5:1935/popler_publishlive/tvdisco
+#EXTINF:0,4fun TV
+rtmp://153.19.248.5:1935/popler_publishlive/4funtv
+#EXTINF:0,8TV
+rtmp://stream.cdn.smcloud.net/8tv2-t/8tv_480p
+#EXTINF:0,===========KAMERY IP============
+http://stream.elblag.net:18080/Braniewo_starostwo_gdanska/index.m3u8
+#EXTINF:0,=========nSPORT+=========
+rtmp://198.255.36.90/stream/2712
+#EXTINF:0,AMAZING MULTIMEDIA
+http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
+#EXTINF:0,Braniewo - Amfiteatr
+http://stream.elblag.net:18080/braniowe6/index.m3u8
+#EXTINF:0,AXN
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/axn/live.livx
+#EXTINF:0,AXN BLACK
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/axnblack/live.livx
+#EXTINF:0,AXN BLACK NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/axnblack/live.livx
+#EXTINF:0,AXN SPIN
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/axnspin/live.livx
+#EXTINF:0,AXN SPIN NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/axnspin/live.livx
+#EXTINF:0,AXN White
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/axnwhite/live.livx
+#EXTINF:0,AXN WHITE NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/axnwhite/live.livx
+#EXTINF:0,BBC EARTH
+rtmp://198.255.36.90/stream/2011
+#EXTINF:0,BBC HD NEW
+http://amigostv.eu/live/hls/l156/bbchd/play.m3u8
+#EXTINF:0,CANAL+  SERIALE
+rtmp://198.255.36.90/stream/3512
+#EXTINF:0,CANAL+ FAMILY
+rtmp://198.255.36.90/stream/3513
+#EXTINF:0,CANAL+ FILM
+rtmp://198.255.36.90/stream/3511
+#EXTINF:0,CBS Action
+http://amigostv.eu/live/hls/l155/cbsaction/play.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+rtmp://198.255.36.90/stream/1108
+#EXTINF:0,DISCOVERY HISTORIA
+rtmp://198.255.36.90/stream/0001
+#EXTINF:0,DISCOVERY TURBO Xtra
+rtmp://198.255.36.90/stream/1109
+#EXTINF:0,Discovery Turbo Xtra
+http://amigostv.eu/live/hls/l154/xtraturbohd/play.m3u8
+#EXTINF:0,Disney XD
+http://amigostv.eu/live/hls/l155/disneyxd/play.m3u8
+#EXTINF:0,DOCUBOX HD
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/docubox/live.livx
+#EXTINF:0,Eleven
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/11sports/live.livx
+#EXTINF:0,ELEVEN HD
+rtmp://198.255.36.90/stream/3613
+#EXTINF:0,ELEVEN HD NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/11sports/live.livx
+#EXTINF:0,Eska Best Music
+rtmp://stream.smcloud.net/tv/best/best_480p
+#EXTINF:0,Eska Party
+rtmp://stream.smcloud.net/tv/eska_party/eska_party_480p
+#EXTINF:0,Eska Party HD
+rtmp://stream.smcloud.net/tv/eska_party/eska_party_720p
+#EXTINF:0,Eska Rock
+rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_480p
+#EXTINF:0,Eska Rock HD
+rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_720p
+#EXTINF:0,Eska TV
+rtmp://stream.smcloud.net/tv/eskatv/eskatv_480p
+#EXTINF:0,Eurosport
+http://amigostv.eu/live/hls/l154/eurosport1hd/play.m3u8
+#EXTINF:0,EUROSPORT HD
+rtmp://198.255.36.90/stream/3313
+#EXTINF:0,FASHION BOX HD NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/fashionbox/live.livx
+#EXTINF:0,FASHIONBOX HD
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/fashionbox/live.livx
+#EXTINF:0,FIGHT BOX HD NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/fightbox/live.livx
+#EXTINF:0,FIGHTBOX HD
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/fightbox/live.livx
+#EXTINF:0,FILM BOX NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/filmbox/live.livx
+#EXTINF:0,FILM BOX PREMIUM NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/filmboxextra/live.livx
+#EXTINF:0,Filmbox
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/filmbox/live.livx
+#EXTINF:0,Filmbox Family
+http://amigostv.eu/live/hls/l157/filmboxfamily/play.m3u8
+#EXTINF:0,Filmbox Premium
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/filmboxextra/live.livx
+#EXTINF:0,FOX
+rtmp://198.255.36.90/stream/2113
+#EXTINF:0,HBO
+rtmp://198.255.36.90/stream/1106
+#EXTINF:0,HBO3
+http://amigostv.eu/live/hls/l152/hbo3hd/play.m3u8
+#EXTINF:0,HBO_2
+rtmp://198.255.36.90/stream/2013
+#EXTINF:0,HBO_3
+rtmp://198.255.36.90/stream/2012
+#EXTINF:0,Hip Hop TV
+rtmp://stream.smcloud.net/live/hiphoptv
+#EXTINF:0,Kino Polska
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/kinopolska/live.livx
+#EXTINF:0,KINO POLSKA MUZYKA
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/kinopolskamuzyka/live.livx
+#EXTINF:0,KINO POLSKA MUZYKA NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/kinopolskamuzyka/live.livx
+#EXTINF:0,KINO POLSKA NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/kinopolska/live.livx
+#EXTINF:0,Mango 24
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/mango/live.livx
+#EXTINF:0,SOPOT - MOLO 
+http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
+#EXTINF:0,NAT GEO people
+rtmp://198.255.36.90/stream/2412
+#EXTINF:0,ELBLAG-Szpital - parking
+http://stream.elblag.net:18080/szpital1/index.m3u8
+#EXTINF:0,POLSAT FILM
+rtmp://198.255.36.90/stream/3312
+#EXTINF:0,POLSAT HD
+rtmp://198.255.36.90/stream/2112
+#EXTINF:0,POLSAT NEW
+https://cdn1.4net.tv/hls/Polsat_low.m3u8
+#EXTINF:0,Polsat News
+http://amigostv.eu/live/hls/l151/polsatnews/play.m3u8
+#EXTINF:0,POLSAT PLAY
+rtmp://198.255.36.90/stream/1127
+#EXTINF:0,POLSAT SPORT
+rtmp://198.255.36.90/stream/1101
+#EXTINF:0,POLSAT SPORT EXTRA
+rtmp://198.255.36.90/stream/1126
+#EXTINF:0,POLSAT SPORT NEWS
+rtmp://198.255.36.90/stream/1125
+#EXTINF:0,POLSAT SPORT NEWS NEW
+https://cdn1.4net.tv/master_4486.m3u8
+#EXTINF:0,Frombork - port - kamera obrotowa
+http://stream.elblag.net:18080/Frombork_obrotowa_port/index.m3u8
+#EXTINF:0,Frombork - Rynek
+http://stream.elblag.net:18080/Frombork_rynek/index.m3u8
+#EXTINF:0,STARS DISCO MUSIC
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
+#EXTINF:0,STELLA
+rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive
+#EXTINF:0,SUPERSTACJA
+rtmp://198.255.36.90/stream/2614
+#EXTINF:0,TLC
+https://rr.multimediago.pl/TLC/TLC.isml/TLC.m3u8
+#EXTINF:0,TRAVEL CHANNEL
+rtmp://198.255.36.90/stream/2511
+#EXTINF:0,TV 4
+rtmp://
+#EXTINF:0,TV KUJAWY
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0,TV PULS
+https://cdn1.4net.tv/master_4487.m3u8
+#EXTINF:0,TV PULS
+rtmp://198.255.36.90/stream/1120
+#EXTINF:0,TV PULS 2 NEW
+https://cdn1.4net.tv/master_4488.m3u8
+#EXTINF:0,TV PULS_2
+rtmp://198.255.36.90/stream/1121
+#EXTINF:0,TV Republika
+http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
+#EXTINF:0,TV Trwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+#EXTINF:0,TV4
+rtmp://198.255.36.90/stream/1122
+#EXTINF:0,TVN
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/tvn/live.livx
+#EXTINF:0,TVN 24
+http://amigostv.eu/live/hls/l156/tvn/play.m3u8
+#EXTINF:0,TVN 24 BIS
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnbis/live.livx
+#EXTINF:0,TVN 24 BIS NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnbis/live.livx
+#EXTINF:0,TVN 24 HD NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/tvn24/live.livx
+#EXTINF:0,TVN 7
+http://amigostv.eu/live/hls/l155/tvn7/play.m3u8
+#EXTINF:0,TVN 7 NEW
+https://cdn1.4net.tv/master_4492.m3u8
+#EXTINF:0,TVN HD
+rtmp://198.255.36.90/stream/2212
+#EXTINF:0,TVN METEO ACTIV
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnmeteo/live.livx
+#EXTINF:0,TVN METREO ACTIVE NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnmeteo/live.livx
+#EXTINF:0,TVN NEW
+https://cdn1.4net.tv/master_4491.m3u8
+#EXTINF:0,TVN Style
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnstyle/live.livx
+#EXTINF:0,TVN STYLE HD NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnstyle/live.livx
+#EXTINF:0,TVN TRANSMISJA NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/tvn/live.livx
+#EXTINF:0,TVN TURBO
+rtmp://198.255.36.90/stream/2311
+#EXTINF:0,TVN Turbo
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnturbo/live.livx
+#EXTINF:0,TVN TURBO HD NEW
+http://dcs-188-64-85-56.atmcdn.pl/streams/o2/tvnplayer/nlive/tvnturbo/live.livx
+#EXTINF:0,TVN24
+rtmp://198.255.36.90/stream/2411
+#EXTINF:0,TVN24 BIS
+rtmp://198.255.36.90/stream/2513
+#EXTINF:0,TVN24 HD
+http://dcs-188-64-85-94.atmcdn.pl/streams/o2/tvnplayer/nlive/tvn24/live.livx
+#EXTINF:0,TVN7 HD
+rtmp://198.255.36.90/stream/2213
+#EXTINF:0,TVP 1
+http://amigostv.eu/live/hls/l156/tvp1/play.m3u8
+#EXTINF:0,TVP 1
+rtmp://198.255.36.90/stream/2312
+#EXTINF:0,TVP 1 HD NEW
+http://93.91.240.195:1234/udp/239.196.6.101:1234
+#EXTINF:0,TVP 2
+rtmp://198.255.36.90/stream/2111
+#EXTINF:0,TVP 2 HD NEW
+http://93.91.240.195:1234/udp/239.196.6.102:1234
+#EXTINF:0,TVP ABC NEW
+http://93.91.240.195:1234/udp/239.196.3.108:1234
+#EXTINF:0,TVP HD
+rtmp://198.255.36.90/stream/1105
+#EXTINF:0,TVP HISTORIA NEW
+https://cdn1.4net.tv/master_4481.m3u8
+#EXTINF:0,TVP Info
+http://188.47.195.3/live/tvpinfo.isml/tvpinfo.m3u8
+#EXTINF:0,TVP INFO NEW
+https://cdn1.4net.tv/master_4482.m3u8
+#EXTINF:0,TVP ROZRYWKA NEW
+https://cdn1.4net.tv/master_4484.m3u8
+#EXTINF:0,TVP SPORT
+http://amigostv.eu/live/hls/l155/tvpsport/play.m3u8
+#EXTINF:0,TVP_INFO
+rtmp://198.255.36.90/stream/1119
+#EXTINF:0,TWOJA TV
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:0,UHD 4K
+http://rtmp.one.by:1400
+#EXTINF:0,ELBLAG-Lodowisko - ul. Karowa
+http://stream.elblag.net:18080/mosir/index.m3u8
+#EXTINF:0,Viasat Nature
+https://st1.multimediago.pl/nhrafn/ViasatNature/ViasatNature.isml/playlist.m3u8
+#EXTINF:0,VIVA 					          	         
+http://amigostv.eu/live/hls/l155/viva/play.m3u8
+#EXTINF:0,VOX
+rtmp://stream.smcloud.net/tv/vox/vox_480p
+#EXTINF:0,Wawa TV
+rtmp://stream.smcloud.net/tv/wawa/wawa_480p
+#EXTINF:0,Wawa TV HD
+rtmp://stream.smcloud.net/tv/wawa/wawa_720p
+#EXTINF:0,SOPOT - widok z latarni
+http://hls13.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/chunks.m3u8
+#EXTINF:0,Malbork - Zamek w Malborku - Panorama
+http://live.tvregionalna24.pl:18085/GMB_ZAMEK_02_WIEZA/tracks-v1/index.m3u8
