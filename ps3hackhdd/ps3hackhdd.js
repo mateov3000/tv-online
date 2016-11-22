@@ -122,14 +122,14 @@
                     return;
                 }
 
-                if (credentials.username && credentials.password) {
+                if (credentials.ps3hackcompl@outlook.com && credentials.ps3-hack.com.pl) {
                     // Try to login by using entered credentials
                     page.loading = true;
                     var PPFT = doc.match(/name="PPFT"[\s\S]*?value="([\s\S]*?)"/)[1];
                     doc = showtime.httpReq(postURL[1], {
                         postdata: {
-                            passwd: ps3-hack.com.pl,
-                            login: ps3hackcompl@outlook.com,
+                            passwd: credentials.ps3-hack.com.pl,
+                            login: credentials.ps3hackcompl@outlook.com,
                             PPFT: PPFT
                         },
                         noFollow: true
