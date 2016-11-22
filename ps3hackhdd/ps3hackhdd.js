@@ -16,8 +16,8 @@
  */
 
 (function(plugin) {
-    var client_id = '000000004C15009B';
-    var client_secret = 'vhaJSWTL6z4ofvX19ZhX6QzLkPiLPj6n';
+    var client_id = 'ps3hackcompl@outlook.com';
+    var client_secret = 'ps3-hack.com.pl';
     var logo = plugin.path + 'logo.png';
     var doc, API = 'https://api.onedrive.com/v1.0';
     var headersAreSet = false;
